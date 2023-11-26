@@ -26,6 +26,13 @@ div.logo {
     font-size: 30px;
 }
 
+.logo>a {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 400;
+    color: #686565;
+}
+
 a {
     text-decoration: none;
 }
